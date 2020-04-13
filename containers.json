@@ -1,0 +1,9 @@
+[
+  {
+    "Description": "ubuntu19",
+    "Format": "vmdk",
+    "UserBucket": {
+        "S3Bucket": "vm-import-bucket-123",
+        "S3Key": "vm/Ubuntu_64-bit-disk1.vmdk"
+    }
+}]
